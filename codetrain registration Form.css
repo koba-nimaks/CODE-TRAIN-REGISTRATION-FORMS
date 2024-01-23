@@ -1,0 +1,262 @@
+body{
+
+    background-color: rgb(225, 236, 251);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center ;
+    align-items: center;
+    
+
+    
+}
+
+.boosu{
+
+    width: 50%;
+}
+
+.Firstbox{
+    background-color: white;
+    height: 37vh;
+    border-radius: 8px;
+    margin-bottom: 20px;
+
+}
+
+.bluebox{
+    height: 1.5vh;
+    background-color: rgb(0, 200, 255);
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+
+}
+
+.text{
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.cloud-email{
+    display: flex;
+    justify-content: space-between;
+}
+
+.secondbox{
+    background-color: white;
+    height: 12vh;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+
+.secondbox input{
+    border-style: none;
+    border-bottom-style: solid;
+}
+
+.thirdbox{
+    background-color: white;
+    height: 12vh;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+
+.thirdbox input{
+    border-style: none;
+    border-bottom-style: solid;
+}
+
+.fourthbox{
+    background-color: white;
+    height: 12vh;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+
+.fourthbox input{
+    border-style: none;
+    border-bottom-style: solid;
+}
+
+.fifthbox{
+    background-color: white;
+    height: 17vh;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+
+.fifthbox input{
+    border-style: none;
+    border-bottom-style: solid;
+}
+
+.sixthbox{
+    background-color: white;
+    height: 17vh;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+
+.sixthbox input{
+    border-style: none;
+    border-bottom-style: solid;
+}
+
+.seventhbox{
+    background-color: white;
+    height: 22vh;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+
+.seventhbox input{
+    border-style: none;
+    border-bottom-style: solid;
+}
+
+.eighthbox{
+    background-color: white;
+    height: 12vh;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+
+.eighthbox input{
+    border-style: none;
+    border-bottom-style: solid;
+}
+
+.ninethbox{
+    background-color: white;
+    height: 15vh;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+
+.ninethbox input{
+    border-style: none;
+    border-bottom-style: solid;
+}
+
+.tenthbox{
+    background-color: white;
+    height: 15vh;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+
+.tenthbox input{
+    border-style: none;
+    border-bottom-style: solid;
+}
+
+.eleventhbox{
+    background-color: white;
+    height: 15vh;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+
+.eleventhbox input{
+    border-style: none;
+    border-bottom-style: solid;
+}
+
+.last-box{
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.submit-btn{
+    background-color: rgb(113, 149, 239);
+    width:100px;
+    height:34px;
+    align-items: center;
+    border-radius: 4px;
+    color: white;
+    border-style: none;
+    font-size: 17px;
+
+}
+
+.green-line {
+    width:180px;
+    height: 10px;
+    border-radius: 8px;
+    background-color: rgb(17, 152, 17);
+    border-style: none;
+    margin: top 20px;
+
+}
+
+.form-1 {
+    color: rgb(60, 122, 255);
+}
+
+.Logo-container{
+    display: fex;
+    justify-content:space-around;
+    align-content: center;
+    text-align: center;
+    display:inline-block
+}
+
+.logo{
+    background-repeat:no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.Serious{
+    color:gray;
+    border-style: none;
+    padding-bottom:10px;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 10px;
+
+
+}
+
